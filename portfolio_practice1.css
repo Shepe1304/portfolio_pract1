@@ -441,6 +441,13 @@ body {
   background-color: rgb(231, 219, 89);
 }
 
+.button:active {
+  width: 31%;
+  height: 110px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.8);
+  background-color: rgb(252, 246, 181);
+}
+
 a {
   color: black;
   text-decoration: none;
